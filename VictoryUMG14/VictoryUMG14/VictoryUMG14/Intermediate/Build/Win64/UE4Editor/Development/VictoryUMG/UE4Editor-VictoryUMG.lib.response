@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VictoryUMG.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\adsf1\Desktop\New folder\quadProject - cpp Copy (3) working incomplete\Intermediate\Build\Win64\quadProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\adsf1\Desktop\New folder\quadProject - cpp Copy (3) working incomplete\Plugins\VictoryUMG14\VictoryUMG14\Intermediate\Build\Win64\UE4Editor\Development\VictoryUMG\Module.VictoryUMG.cpp.obj"
+"C:\Users\adsf1\Desktop\New folder\quadProject - cpp Copy (3) working incomplete\Plugins\VictoryUMG14\VictoryUMG14\Intermediate\Build\Win64\UE4Editor\Development\VictoryUMG\Module.VictoryUMG.gen.cpp.obj"
+"C:\Users\adsf1\Desktop\New folder\quadProject - cpp Copy (3) working incomplete\Plugins\VictoryUMG14\VictoryUMG14\Intermediate\Build\Win64\UE4Editor\Development\VictoryUMG\Default.rc2.res"
+/OUT:"C:\Users\adsf1\Desktop\New folder\quadProject - cpp Copy (3) working incomplete\Plugins\VictoryUMG14\VictoryUMG14\Intermediate\Build\Win64\UE4Editor\Development\VictoryUMG\UE4Editor-VictoryUMG.lib"
+/INCLUDE:IMPLEMENT_MODULE_VictoryUMG
